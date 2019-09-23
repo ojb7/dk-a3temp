@@ -8,6 +8,7 @@ public class MyClass {
 
     private static void feature1() {
         // TODO - print "Feature #1"
+        System.out.println("Feature #1");
     }
 
     private static void feature2() {
